@@ -1,2 +1,5 @@
-# .github
-FOSS UAV Ltd
+# FOSS UAV Ltd
+
+FOSS UAV (Free and Open Source Software for Unmanned Aerial Vehicles) provides software services to the UAV industry. The brainchild of Dr Andy Piper, FOSS UAV is focused on growing the size of the UAV industry through the provision of high-quality open source software. Andy has long been a proponent and advocate for open source software and has been one of the top contributors to the ArduPilot flight control software. Any kind of flight control software is necessarily complicated and providing this software as open source allows companies to focus on added value services, rather than continually re-inventing the wheel and worrying about safety or reliability or performance. UAVs are changing the world and open source software allows us all to stand on the backs of giants
+
+FOSS UAV is based in the UK and provides software services primarily based on the ArduPilot ecosystem. FOSS UAV can do bespoke development covering many aspects of the ArduPilot codebase, but particularly around board porting, driver development and ease-of-use features. FOSS UAV is also able to provide multirotor tuning services and log analysis both remotely and in-person. 
